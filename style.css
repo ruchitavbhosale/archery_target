@@ -1,0 +1,114 @@
+body {
+      background-color: gray;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .makecircle {
+      position: relative;
+      width: 33rem;
+      height: 33rem;
+    }
+
+    .circle {
+      position: absolute;
+      border-radius: 50%;
+      border: 0.125rem solid black;
+    }
+
+    #circle1 {
+      width: 33rem;
+      height: 33rem;
+      background: white;
+      top: 0;
+      left: 0;
+    }
+
+    #circle2 {
+      width: 30rem;
+      height: 30rem;
+      background: white;
+      top: 1.5rem;
+      left: 1.5rem;
+    }
+
+    #circle3 {
+      width: 27rem;
+      height: 27rem;
+      background: black;
+      border: 0.125rem solid white;
+      top: 3rem;
+      left: 3rem;
+    }
+
+    #circle4 {
+      width: 24rem;
+      height: 24rem;
+      background: black;
+      border: 0.125rem solid white;
+      top: 4.5rem;
+      left: 4.5rem;
+    }
+
+    #circle5 {
+      width: 21rem;
+      height: 21rem;
+      background: lightseagreen;
+      top: 6rem;
+      left: 6rem;
+    }
+
+    #circle6 {
+      width: 18rem;
+      height: 18rem;
+      background: lightseagreen;
+      top: 7.5rem;
+      left: 7.5rem;
+    }
+
+    #circle7 {
+      width: 15rem;
+      height: 15rem;
+      background: red;
+      top: 9rem;
+      left: 9rem;
+    }
+
+    #circle8 {
+      width: 12rem;
+      height: 12rem;
+      background: red;
+      top: 10.5rem;
+      left: 10.5rem;
+    }
+
+    #circle9 {
+      width: 9rem;
+      height: 9rem;
+      background: yellow;
+      top: 12rem;
+      left: 12rem;
+    }
+
+    #circle10 {
+      width: 6rem;
+      height: 6rem;
+      background: yellow;
+      top: 13.5rem;
+      left: 13.5rem;
+    }
+
+    #circle11 {
+  width: 3rem;
+  height: 3rem;
+  background: yellow;
+  top: 15rem;
+  left: 15rem;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
